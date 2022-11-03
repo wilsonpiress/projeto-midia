@@ -17,7 +17,7 @@ declarada fora do laço de repetição, deixando o código mais limpo e otimizad
  
 
 
-
+Segue abaixo uma imagem de como ficou o projeto:
 
 ![midia-brasil](https://user-images.githubusercontent.com/107739313/199741134-3a254390-2317-4e07-9eeb-6a9556f7a559.png)
 
