@@ -15,7 +15,7 @@ ele vai repetir essa rotina como um loop, e a vantagem em relação ao while é 
 declarada fora do laço de repetição, deixando o código mais limpo e otimizado.
 
  
-
+Link para o projeto: https://bejewelled-toffee-4039af.netlify.app/
 
 Segue abaixo uma imagem de como ficou o projeto:
 
